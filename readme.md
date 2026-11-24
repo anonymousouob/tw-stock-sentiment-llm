@@ -106,5 +106,5 @@ model = PeftModel.from_pretrained(base_model, adapter_id)
 
 ## 🤗 模型權重
 
-微調後的 LoRA 權重託管於 Hugging Face Hub（未直接存放於本 GitHub 倉庫）：
+微調後的 LoRA 權重託管於 Hugging Face Hub：
 * **Hugging Face Repo**：[zeroone-000/tw-stock-qwen2.5-lora](https://huggingface.co/zeroone-000/tw-stock-qwen2.5-lora)
